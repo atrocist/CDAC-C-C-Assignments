@@ -1,0 +1,9 @@
+
+
+
+int *parr[5];
+//THIS IS AN ARRAY OF 5 POINTERS
+
+
+int (*parr)[5];
+//THIS IS A POINTER TO ARRAY OF SIZE 5
